@@ -14,3 +14,4 @@ Those are the datasets :
 | 4 | Medical Cost Insurance | [link](https://github.com/drisskhattabi6/Exploratory-Data-Analysis-Projects/tree/main/Medical%20Cost%20Insurance%20-%20EDA) |
 | 5 | Netflix Titles | [link](https://github.com/drisskhattabi6/Exploratory-Data-Analysis-Projects/tree/main/Netflix%20Titles%20EDA) |
 | 6 | Used Car Price | [link](https://github.com/drisskhattabi6/Exploratory-Data-Analysis-Projects/tree/main/Used%20Car%20Price%20Analyzing) |
+| 7 | Airplane Crashes and Fatalities | [link](https://github.com/drisskhattabi6/Exploratory-Data-Analysis-Projects/tree/main/Air-Crash-Data-Analysis) |
